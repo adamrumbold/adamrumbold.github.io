@@ -56,20 +56,6 @@ quality varies.
 
 &nbsp;
 
-<a title="Axon Recordings" href="https://itunes.apple.com/au/podcast/axon-recordings-podcast/id552979690?mt=2" target="_blank">Axon Recordings</a>
-
-techno, progressive, tech house and deep house
-
-<div style="width: 180px" class="wp-caption alignnone">
-  <img title="Axon Recordings" src="http://a5.mzstatic.com/au/r30/Music/v4/9f/09/97/9f0997c3-50cb-ec67-dbfe-3c1487b6f8ae/cover170x170.jpeg" alt="" width="170" height="170" />
-  
-  <p class="wp-caption-text">
-    Axon Recordings
-  </p>
-</div>
-
-&nbsp;
-
 <a title="Nextmen" href="https://itunes.apple.com/au/podcast/the-nextmen-podcast/id399583888?mt=2" target="_blank">The Nextmen</a>
 
 typically good mixes
@@ -122,17 +108,6 @@ ace mixes of D&B
   </p>
 </div>
 
-[This is house](https://itunes.apple.com/au/podcast/this-is-house/id667394948?mt=2 "This is House")
-
-less cheesy than it sounds.
-
-<div style="width: 180px" class="wp-caption alignnone">
-  <img title="This is House" src="http://a3.mzstatic.com/au/r30/Music4/v4/ba/ba/7f/baba7f3f-39d9-1468-58fa-943d582d56fe/cover170x170.jpeg" alt="" width="170" height="170" />
-  
-  <p class="wp-caption-text">
-    This is House
-  </p>
-</div>
 
 [Breaking Bread](https://itunes.apple.com/au/podcast/the-breakin-bread-radio-show/id281023391?mt=2 "Breaking Bread")
 
@@ -208,19 +183,6 @@ Japanese label &#8211; good mixes &#8211; vary across the hip hop/funk/soul/jazz
   </p>
 </div>
 
-&nbsp;
-
-<a title="Klephtomania - Bass Kleph" href="https://itunes.apple.com/au/podcast/klephtomania-bass-kleph-podcast/id636397256?mt=2" target="_blank">Klephtomania &#8211; Bass Kleph</a>
-
-Aus DJ &#8211; house/electro/tech
-
-<div style="width: 180px" class="wp-caption alignnone">
-  <img title="Bass Kleph" src="http://a4.mzstatic.com/au/r30/Music4/v4/27/79/8f/27798f1d-32a0-eadc-3eb2-0e8f90ff658a/cover170x170.jpeg" alt="" width="170" height="170" />
-  
-  <p class="wp-caption-text">
-    Bass Kleph
-  </p>
-</div>
 
 &nbsp;
 
@@ -289,7 +251,7 @@ comedy chat/interview of sorts with a guest.
 Better than it sounds.
 
 <div style="width: 180px" class="wp-caption alignnone">
-  <img title="Planet Money" src="http://a5.mzstatic.com/au/r30/Music4/v4/c8/ec/0e/c8ec0e6b-18a4-6862-9f02-53d0fc355963/cover170x170.jpeg" alt="" width="170" height="170" />
+  <img title="Planet Money" src="http://is2.mzstatic.com/image/thumb/Music62/v4/9c/26/62/9c266213-2a31-e6bd-ced0-3f88bffa52c7/source/170x170bb.jpg" alt="" width="170" height="170" />
   
   <p class="wp-caption-text">
     Planet Money
@@ -319,7 +281,7 @@ Design through a range of topics.
 Rarely uploads, but good when they do
 
 <div style="width: 180px" class="wp-caption alignnone">
-  <img title="The Infinite Monkey Cage" src="http://a4.mzstatic.com/au/r30/Music6/v4/c4/d5/5f/c4d55f35-8c7f-02b2-d091-2ac11b122a13/cover170x170.jpeg" alt="" width="170" height="170" />
+  <img title="The Infinite Monkey Cage" src="http://is5.mzstatic.com/image/thumb/Music71/v4/6a/1c/d3/6a1cd36e-ee81-c95a-5ff5-f44959b9e9d7/source/170x170bb.jpg" alt="" width="170" height="170" />
   
   <p class="wp-caption-text">
     The Infinite Monkey Cage
@@ -347,7 +309,7 @@ Canberra in podcast form!
 Interesting podcast &#8211; with unique style (overlaid sounds to stories/interviews)
 
 <div style="width: 180px" class="wp-caption alignnone">
-  <img title="Radio Lab" src="http://a1.mzstatic.com/au/r30/Music3/v4/68/bd/84/68bd8493-4959-3b80-d7b6-ada7ef072606/cover170x170.jpeg" alt="" width="170" height="170" />
+  <img title="Radio Lab" src="http://is1.mzstatic.com/image/thumb/Music71/v4/a3/5c/0a/a35c0ad1-8b64-f680-77b1-09a12c01e950/source/170x170bb.jpg" alt="" width="170" height="170" />
   
   <p class="wp-caption-text">
     Radio Lab
@@ -389,7 +351,7 @@ Thursday podcast of Dr Karl science phone in on the J&#8217;s
 Linguistics, etymology &#8211; generally interesting stuff (eg. the origin of the &#8216;camp&#8217; gay sound, origin of swear words etc).
 
 <div style="width: 180px" class="wp-caption alignnone">
-  <img title="Lexicon Valley" src="http://a4.mzstatic.com/au/r30/Music4/v4/59/9f/4a/599f4a26-4f59-6978-bffb-debb72f8fa12/cover170x170.jpeg" alt="" width="170" height="170" />
+  <img title="Lexicon Valley" src="http://is4.mzstatic.com/image/thumb/Music62/v4/50/18/a4/5018a4b2-cb0f-39cb-0296-cddd1392d1c4/source/170x170bb.jpg" alt="" width="170" height="170" />
   
   <p class="wp-caption-text">
     Lexicon Valley
@@ -421,20 +383,6 @@ From the guys that wrote the book &#8211; typically interesting.
   
   <p class="wp-caption-text">
     Freakonomics
-  </p>
-</div>
-
-&nbsp;
-
-<a title="Stuff You Should Know" href="https://itunes.apple.com/au/podcast/stuff-you-should-know/id278981407?mt=2" target="_blank">Stuff You Should Know</a>
-
-Couple of blokes explaining stuff &#8211; but in an interesting laid back way.
-
-<div style="width: 180px" class="wp-caption alignnone">
-  <img title="Stuff You Should Know" src="http://a4.mzstatic.com/au/r30/Music6/v4/8c/95/ff/8c95ff5d-b1dc-ecbe-3f74-c0d2a72753e1/cover170x170.jpeg" alt="" width="170" height="170" />
-  
-  <p class="wp-caption-text">
-    Stuff You Should Know
   </p>
 </div>
 
