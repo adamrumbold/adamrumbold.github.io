@@ -24,7 +24,7 @@ github_username:  adamrumbold
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-tactile
 gems:
   - jekyll-feed
 exclude:
