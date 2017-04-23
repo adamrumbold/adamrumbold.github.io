@@ -14,7 +14,7 @@ NB. for those that link off to iTunes, if your podcast app isn&#8217;t iTunes, j
 
 &nbsp;
 
-<span style="font-size: 2em;">Music</span>
+<h1>Music</h1>
 
 [Low End Theory](https://itunes.apple.com/au/podcast/low-end-theory-podcast/id307221046?mt=2 "Low End Theory podcast")
 
@@ -35,24 +35,12 @@ Infrequent but good when they publish
 quality varies.
 
 <div style="width: 180px" class="wp-caption alignleft">
-  <img title="Stones Throw podcast" src="http://a5.mzstatic.com/au/r30/Music4/v4/7d/79/a3/7d79a324-59b3-cb78-262b-c2b010d06f90/cover170x170.jpeg" alt="" width="170" height="170" />
+  <img title="Stones Throw podcast" src="http://is4.mzstatic.com/image/thumb/Music71/v4/70/1e/e3/701ee32e-c8f0-8249-5135-2b82bacd69de/source/170x170bb.jpg" alt="" width="170" height="170" />
   
   <p class="wp-caption-text">
     Stones Throw podcast
   </p>
 </div>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
