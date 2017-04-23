@@ -114,7 +114,7 @@ ace mixes of D&B
 Awesome funk/soul/jazz/hip-hop mixes by some London cats. RECOMMEND.
 
 <div style="width: 180px" class="wp-caption alignnone">
-  <img title="Breaking Bread" src="http://a1.mzstatic.com/au/r30/Music3/v4/80/c8/0c/80c80c18-99c4-24b0-29e4-fdddde800948/cover170x170.jpeg" alt="" width="170" height="170" />
+  <img title="Breaking Bread" src="http://is5.mzstatic.com/image/thumb/Music122/v4/cb/77/7d/cb777df6-9924-f66a-e06f-454c692d8d85/source/170x170bb.jpg" alt="" width="170" height="170" />
   
   <p class="wp-caption-text">
     Breaking Bread
@@ -126,7 +126,7 @@ Awesome funk/soul/jazz/hip-hop mixes by some London cats. RECOMMEND.
 Invariably good (housey) hour long mixes.
 
 <div style="width: 180px" class="wp-caption alignnone">
-  <img title="Freerange records podcast" src="http://a4.mzstatic.com/au/r30/Music3/v4/b5/7b/3d/b57b3d5a-7c1d-2b89-5b35-98155fe5409c/cover170x170.jpeg" alt="" width="170" height="170" />
+  <img title="Freerange records podcast" src="http://is3.mzstatic.com/image/thumb/Music111/v4/04/ff/dd/04ffddd0-6de0-8eff-b87f-98cbd15dad83/source/170x170bb.jpg" alt="" width="170" height="170" />
   
   <p class="wp-caption-text">
     Freerange records podcast
