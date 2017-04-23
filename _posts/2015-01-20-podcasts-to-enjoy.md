@@ -186,7 +186,7 @@ Japanese label &#8211; good mixes &#8211; vary across the hip hop/funk/soul/jazz
 
 &nbsp;
 
-<span style="font-size: 2em;">Spoken Word</span>
+<h1>Spoken Word</h1>
   
 Podcasts of science, comedy, general knowledge, economics etc.
 
@@ -195,24 +195,10 @@ Podcasts of science, comedy, general knowledge, economics etc.
 From QI researchers, very interesting/funny.
 
 <div style="width: 180px" class="wp-caption alignnone">
-  <img title="No such thing as a fish" src="http://a2.mzstatic.com/au/r30/Music/v4/79/40/9d/79409d53-708c-e11d-1f96-d10ce1d5487c/cover170x170.jpeg" alt="" width="170" height="170" />
+  <img title="No such thing as a fish" src="http://is4.mzstatic.com/image/thumb/Music91/v4/aa/45/19/aa451911-4fe8-9112-e4d2-1e139810a207/source/170x170bb.jpg" alt="" width="170" height="170" />
   
   <p class="wp-caption-text">
     No such thing as a fish
-  </p>
-</div>
-
-&nbsp;
-
-<a title="More or Less" href="https://itunes.apple.com/au/podcast/more-or-less-behind-the-stats/id267300884?mt=2" target="_blank"> More or Less: Behind the stats</a>
-
-&nbsp;
-
-<div style="width: 180px" class="wp-caption alignnone">
-  <img title="More or Less" src="http://a3.mzstatic.com/au/r30/Music6/v4/26/c1/95/26c195c0-a56d-d8bc-d24c-c860d41b2bee/cover170x170.jpeg" alt="" width="170" height="170" />
-  
-  <p class="wp-caption-text">
-    More or Less
   </p>
 </div>
 
@@ -223,7 +209,7 @@ From QI researchers, very interesting/funny.
 As it says on the tin. Epic stories of epic characters or moments in history (long and entertaining)
 
 <div style="width: 180px" class="wp-caption alignnone">
-  <img title="Hardcore History" src="http://a2.mzstatic.com/au/r30/Music6/v4/13/77/ef/1377ef9d-aa02-c0aa-bc9a-0ce82dc8cd26/cover170x170.jpeg" alt="" width="170" height="170" />
+  <img title="Hardcore History" src="http://is2.mzstatic.com/image/thumb/Music71/v4/09/5c/79/095c79d2-17dc-eb92-3f50-ce8b00fc2f4d/source/170x170bb.jpg" alt="" width="170" height="170" />
   
   <p class="wp-caption-text">
     Hardcore History
@@ -323,7 +309,7 @@ Interesting podcast &#8211; with unique style (overlaid sounds to stories/interv
 Science shows, every Thursday is an hour long Dr Karl phone in.
 
 <div style="width: 180px" class="wp-caption alignnone">
-  <img title="5 Live Science" src="http://a2.mzstatic.com/au/r30/Music4/v4/b0/bc/65/b0bc6507-4f04-2383-5208-59568b649519/cover170x170.jpeg" alt="" width="170" height="170" />
+  <img title="5 Live Science" src="http://is1.mzstatic.com/image/thumb/Music62/v4/ee/9c/a9/ee9ca9ef-9863-9da1-288d-19a6698d383c/source/170x170bb.jpg" alt="" width="170" height="170" />
   
   <p class="wp-caption-text">
     5 Live Science
@@ -379,7 +365,7 @@ Weekly interviews on a wide range of topics (climate change, AI etc) and general
 From the guys that wrote the book &#8211; typically interesting.
 
 <div style="width: 180px" class="wp-caption alignnone">
-  <img title="Freakonomics" src="http://a1.mzstatic.com/au/r30/Music3/v4/e5/18/7a/e5187a40-6c72-b12b-95af-eeab8d3c824b/cover170x170.jpeg" alt="" width="170" height="170" />
+  <img title="Freakonomics" src="http://is2.mzstatic.com/image/thumb/Music71/v4/7b/a7/41/7ba7414b-4534-3d9a-615e-e00e3d7c7819/source/170x170bb.jpg" alt="" width="170" height="170" />
   
   <p class="wp-caption-text">
     Freakonomics
