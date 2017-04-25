@@ -4,8 +4,8 @@ title: Podcasts to enjoy
 date: 2015-01-20T18:43:42+00:00
 author: admin
 layout: post
-categories:
-  - blog
+category:
+  - podcasts
   - music
 tags:
   - podcasts

@@ -4,8 +4,8 @@ title: HTPC setup
 date: 2010-04-03T18:52:52+00:00
 author: admin
 layout: post
-categories:
-  - tech
+category:
+  - coding
 tags:
   - HTPC
   - Mac

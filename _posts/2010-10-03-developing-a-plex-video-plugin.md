@@ -4,8 +4,8 @@ title: Developing a Plex video plugin
 date: 2010-10-03T13:04:06+00:00
 author: adam
 layout: post
-categories:
-  - tech
+category:
+  - coding
 tags:
   - development
   - HTPC

@@ -2,8 +2,10 @@
 layout: post
 title:  "Bookshelf"
 date:   2017-04-23 1:16:01 +1000
-categories: reading personal
+category: reading
 ---
+      
+
       <style type="text/css" media="screen">
         .gr_grid_container {
           /* customize grid container div here. eg: width: 500px; */

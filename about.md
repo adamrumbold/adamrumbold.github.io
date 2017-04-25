@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 Some kind of IT professional, found in Canberra (Australia).
@@ -18,3 +17,4 @@ Some of my favourite things to be found here:
 
 
 <a href="http://api.adamrumbold.com">personal social account directory (API)</a>
+

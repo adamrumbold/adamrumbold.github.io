@@ -1,32 +1,69 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Site Info
+title: Adam Rumbold
+tagline: 'Just a little bit further'
+description: 'A personal blog covering tech, photograpy, running, travel and homebrew'
+baseurl: ""
+url: http://adamrumbold.github.io
+logo: '/public/logo.png'
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-# > # this means to ignore newlines until "baseurl:"
-title: Just a little bit further
-email: adam.rumbold@gmail.com
-description: A freshly minted site!
-#baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://adamrumbold.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: adamrumbold
-github_username:  adamrumbold
-
-# Build settings
-markdown: kramdown
-theme: minima
+# Site configurations
 gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss    
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
+
+version: 1.0.0
+
+github:
+  repo:           https://github.com/adamrumbold/adamrumbold.github.io
+
+# About/contact
+author:
+  name: Adam Rumbold
+  introduction: A keen trail runner
+  gravatar: 1a66e6580107fe3106bd4d33afca7ae1 # md5 hash of your email address
+  photo: https://www.gravatar.com/avatar/1a66e6580107fe3106bd4d33afca7ae1?s=200
+  contact:
+    linkedin:  
+    github:    https://github.com/adamrumbold
+    # facebook:  <hide>
+    twitter:   https://twitter.com/arumbold
+    weibo:     
+    email:     http://www.google.com/recaptcha/mailhide/d?k=01iSzk1Hp90UGxBxbMGDx_JA==&c=i5EDOxL4umdO1JfQb80ZzYl4b_k1Bw16ml3in2-EV50=
+
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Blog:           
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:          
+    - '/about/'
+  Github Project: 
+    - 'http://adamrumbold.github.io/'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+hero:
+  image: /public/img/home_med.jpg
+  caption: Storms rolling into the bush capital.
+
+# Puglins
+mathjax: true # whether support mathjax
+google_analytics_token:  # leave blank if you don't want google analytics
+disqus_short_name:  # leave blank if you don't want disqus
+
+
+
