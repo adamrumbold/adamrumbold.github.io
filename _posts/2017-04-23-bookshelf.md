@@ -21,7 +21,6 @@ category: reading
         }
       </style>
       <div id="gr_grid_widget_1492947088">
-        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
             <h2>
       <a style="text-decoration: none;" href="https://www.goodreads.com/review/list/59452243-adam?shelf=read&utm_medium=api&utm_source=grid_widget">Adam's bookshelf: read</a>
     </h2>
