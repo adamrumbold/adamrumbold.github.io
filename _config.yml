@@ -43,8 +43,8 @@ nav:
     - '/'
   Blog:           
     - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+    - {  Categories: '/blog/category/' }
+    - {  Tags: '/blog/tag/' }
   About:          
     - '/about/'
   Github Project: 
@@ -52,7 +52,7 @@ nav:
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
+category_page: '/blog/category/'
 
 hero:
   image: /public/img/home_med.jpg
