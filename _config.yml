@@ -28,7 +28,7 @@ github:
 # About/contact
 author:
   name: Adam Rumbold
-  description: Adventures in mountain running, photography, coding, beer and fun!
+  description: Adventures in <strong>mountain running, photography, coding, beer and fun!</strong>
   gravatar: 1a66e6580107fe3106bd4d33afca7ae1 # md5 hash of your email address
   photo: https://www.gravatar.com/avatar/1a66e6580107fe3106bd4d33afca7ae1?s=200
   contact:
@@ -48,7 +48,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://adamrumbold.github.io/'
+    - 'http://adamrumbold.Githubub.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
