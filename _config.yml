@@ -49,6 +49,8 @@ nav:
     - '/about/'
   Github Project: 
     - 'http://adamrumbold.Githubub.io/'
+  API:
+    - 'http://api.adamrumbold.com/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
