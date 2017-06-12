@@ -62,7 +62,7 @@ Race Gear:
 * Running gloves + beanie
 * and other mandatory gear
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Owg9j95tOd8" frameborder="0" allowfullscreen></iframe>
 
 
 
