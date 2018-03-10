@@ -44,3 +44,7 @@ bower_components
 
 # sass
 .sass-cache
+
+#ignore ssl certs and keys
+adamrumbold.com.key
+adamrumbold.com.pem
