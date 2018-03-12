@@ -5,8 +5,7 @@ date:   2017-07-29 21:00:00 -0500
 category:
   - travel
 tags:
-  - UK
-  - work
+  - [UK, work]
 ---
 
 The third and final leg of my work trip was into the Office of National Statistics in the UK. They are located in Titchfield which is roughly halfway between Portsmouth and Southampton, and consequently a pain in the arse to get to from Heathrow. A coach followed by a train later I arrived into Fareham station - around 1pm - for the quick cab ride to the luxurious Premier Inn hotel. 

@@ -5,8 +5,7 @@ date:   2017-06-5 18:30:00 +1000
 category:
   - running
 tags:
-  - running
-  - strava
+  - [running, strava]
 ---
 
 A few years ago - on a shuttle bus back from the Six Foot Track marathon - someone told me about the [Mount Solitary ultra (45k) event](http://www.runningwildnsw.com/mt-solitary-ultra/). The Six Foot Track marathon was my first run in the Blue Mountains, and while it was a nice run - it didn't encapsulate the stunning scenary the Blue Mountains has to offer.

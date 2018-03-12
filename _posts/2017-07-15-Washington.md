@@ -5,8 +5,7 @@ date:   2017-07-19 16:15:00 -0500
 category:
   - travel
 tags:
-  - US
-  - work
+  - [US, work]
 ---
 
 The US has always been lower down on my mental 'want to check this place out' destination list. With so much US cultural creep into Australia, the mindsest around guns and violence, and to be frank the frightful appearance of a broadly insular and uneducated population - it just never had the same attraction it does to some. The one thing that has for a long time drawn me to the US is the national parks - but that will have to wait for another time..

@@ -5,8 +5,7 @@ date:   2017-08-16 15:00:00 +1000
 category:
   - running
 tags:
-  - running
-  - strava
+  - [running, strava]
 ---
 
 Back on new years day - when work was still nuts - I committed to [Run Larapinta](http://ascent.com.au/runlarapinta/). A four day stage race out across the Larapinta trail in outback central Australia. The escape and challenge was something to look forward to. 

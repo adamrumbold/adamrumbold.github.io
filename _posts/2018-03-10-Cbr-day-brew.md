@@ -1,5 +1,4 @@
 ---
-id: 8
 title: Cbr day
 date: 2018-03-10T18:52:52+00:00
 author: adam
@@ -7,6 +6,7 @@ layout: post
 category:
   - brewing
 tags:
+  - [homebrew, beer, recipe]
 ---
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />

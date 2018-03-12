@@ -1,5 +1,4 @@
 ---
-id: 8
 title: Straight outta Europe
 date: 2018-03-06T18:52:52+00:00
 author: adam
@@ -7,6 +6,7 @@ layout: post
 category:
   - brewing
 tags:
+  - [homebrew, beer, recipe]
 ---
 
 <body style="font: 14px MuseoSans500, Helvetica, Arial, sans-serif; font-size: 12px;">
