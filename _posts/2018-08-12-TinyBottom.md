@@ -16,7 +16,6 @@ Notes:
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Tiny Bottom of world | Brewer's Friend</title>
-</head>
 <body style="font: 14px MuseoSans500, Helvetica, Arial, sans-serif; font-size: 12px;">
 <h3 style="font-size: 40px; font-weight: normal; line-height: 110%; padding: 5px 0 0 0; margin: 0;">Tiny Bottom of world</h3>
 <div style="font-size: 16px; font-weight: normal; padding: 0 0 0 5px;">
