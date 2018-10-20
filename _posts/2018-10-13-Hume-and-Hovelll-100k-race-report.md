@@ -8,13 +8,13 @@ tags:
  [running, ultra]
 ---
 
-In the middle of the year after my first DNF attempting UTA100 - I started casting for my next ultra. It was going to be a toss up between the Sri Chinmoy Canberra 105 and the Hume and Hovell. Whilst the former was in my backyard - the tiping point was when a few friends indicated they might head to Tumbarumba for for the Hume and Hovell. I'd heard it was a nice trail, well run, small event. So I signed up - booked a room in the local pub and hoped not to suffer an injury 13 days before the race like happened last time.
+In the middle of the year after my first DNF attempting UTA100 - I started casting for my next ultra. It was going to be a toss up between the Sri Chinmoy Canberra 105 and the [Hume and Hovell](http://humehovellultra.com). Whilst the former was in my backyard - the tiping point was when a few friends indicated they might head to Tumbarumba for for the Hume and Hovell. I'd heard it was a nice trail, well run, small event. So I signed up - booked a room in the local pub and hoped not to suffer an injury 13 days before the race like happened last time.
 
 Denise headed down with me on the Friday afternoon and after a "relaxed" check-in procedure at the local pub we made our way up to the motel for race check-in, dinner and the briefing. We caught up with Graham who was lining up for the 50k the next day and his partner Ruth had a nice meal and turned in early to organise myself and try to get a good nights rest. 
 
 Of course in an uncomfortable bed the night before a race - only a few hours of sleep was had. Then a quick aeropress, and the drop bags and my racing pack were loaded into the car with Denise to Henry Angel campsite. In the pre-dawn light 100k and 100 mile runners huddled around roaring fires. Drop bags were dropped ready for me to re-unite with them at the 40k and 70k mark.
 
-Once frst light was upon us and runners could safetly head off without a head torch - we got the go ahead in an informal and quick kick off. We all left the campsite north, under the road, and off for the first stretch of what was almost solely single-track towards Manus Lack and our first turn around point. The pace was gentle, but fast enough to keep me warm in the still frosty morning. We followed the river for a while, before crossing a steel bridge, and up over Mt Garland as the sun started its arc for the day. A day I would see it rise and set whilst out in some beautfiul country on some beautiful trails. 
+Once frst light was upon us and runners could safetly head off without a head torch - we got the go ahead in an informal and quick kick off. We all left the campsite north, under the road, and off for the first stretch of what was almost solely single-track towards Manus Lake and our first turn around point. The pace was gentle, but fast enough to keep me warm in the still frosty morning. We followed the river for a while, before crossing a steel bridge, and up over Mt Garland as the sun started its arc for the day. A day I would see it rise and set whilst out in some beautfiul country on some beautiful trails. 
 
 I started a conversation with Kevin - he was here for the first time too. But unlike me was very much used to the "long run" having regularly competed in the Coast2Kosci 250k run. We carried on through the first checkpoint at 12k, and down into Mannus Lake. The lake looked stunning in the early morning light with swans and bird life. This was the first stretch of fire trail, and the first stretch you could relax and enter auto-pilot. Not long on this stretch the front-runner, Brendan Davies, ran past - a good 20-30 minutes ahead already and we were only about 20k in. After the turnaround point we entered the second checkpoint - and I topped up a water bottle I'd prefilled with TailWind and grabbed a vegemite sandwich. I hadn't had a big breakfast and I was hungry already!
 
@@ -44,8 +44,8 @@ After 10 minutes or so recuperating - I saw David cross the line - he was well a
 ---
 Gear:
 * La Sportiva lycan (first 38k), La Sportiva arkasha (back 62k)
-* gore top (first 38k), run rabbit (back 62k)
-* ciele hat, outdoor research legionairs hat
+* gore top (first 38k), run rabbit run top (back 62k)
+* ciele hat, outdoor research legionaires hat
 * run rabbit shorts
 * leki micro trail poles (from 45k mark)
 * 4 gels, 2 tailwind bottles, 2 bananas, 1 vegemite sandwich, coke, ginger beer, chips.
