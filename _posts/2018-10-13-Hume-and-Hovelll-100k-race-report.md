@@ -48,4 +48,5 @@ Gear:
 * ciele hat, outdoor research legionaires hat
 * run rabbit shorts
 * leki micro trail poles (from 45k mark)
+Nutrition:
 * 4 gels, 2 tailwind bottles, 2 bananas, 1 vegemite sandwich, coke, ginger beer, chips.
