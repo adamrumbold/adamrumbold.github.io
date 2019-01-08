@@ -33,11 +33,11 @@ author:
   gravatar: 1a66e6580107fe3106bd4d33afca7ae1 # md5 hash of your email address
   photo: https://www.gravatar.com/avatar/1a66e6580107fe3106bd4d33afca7ae1?s=200
   contact:
+    instagram: https://www.instagram.com/arumbold/
     github:    https://github.com/adamrumbold
     # facebook:  <hide>
     twitter:   https://twitter.com/arumbold
     email:     http://www.google.com/recaptcha/mailhide/d?k=01iSzk1Hp90UGxBxbMGDx_JA==&c=i5EDOxL4umdO1JfQb80ZzYl4b_k1Bw16ml3in2-EV50=
-
 # Navigation (2nd level links supported)
 nav:
   Home:           
