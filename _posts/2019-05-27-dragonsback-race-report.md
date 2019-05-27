@@ -7,7 +7,7 @@ tags:
  [running, ultra]
 ---
 
-Since last year I had been looking forward to the epic [Berghaus Dragons Back Race](http://berghausdragonsbackrace.com). It traverses over all the main mountain ranges from the north of Wales to the south. The event was first held in the early 90's and run in pairs. Very few finished and it was deemed too tough a course to hold the event again. The event was restarted in 2012, run again in 2015 and is now held every other year. 
+Since last year I had been looking forward to the epic [Berghaus Dragons Back Race](http://berghausdragonsbackrace.com). It traverses over all the main mountain ranges starting in Conwy in the north of Wales to Llandeilo in the south. The event was first held in the early 90's and run in pairs. Very few finished and it was deemed too tough a course to hold the event again. The event was restarted in 2012, run again in 2015 and is now held every other year. 
 
 The course covers 315km, with 15500 metres of elevation gain over 5 days - and requires runners to navigate through to mostly unmanned checkpoints throughout the day. Billed as the toughest multi day mountain ultra marathon event - the approximate 50% attrition rate attests that it is a beast to be reckoned with. 
 
