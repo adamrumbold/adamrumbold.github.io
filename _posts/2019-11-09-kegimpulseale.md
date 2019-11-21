@@ -12,7 +12,7 @@ tags:
 Notes:
 * brewed 9th of November
 * cold crash on 21 November
-* burst carbonate at 30psi for 12hrs
+* dispensed on 25th November and burst carbonate at 30psi for 12hrs
 * serve at xx psi
 
-https://share.brewfather.app/W5LUoWb1TXoSdS
+[recipe](https://share.brewfather.app/W5LUoWb1TXoSdS)
